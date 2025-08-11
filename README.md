@@ -44,36 +44,6 @@ You should change platform at Ameerpet to reach Hitec City from Miyapur.
 
 ---
 
-## Future Improvements
-- Add fare calculation based on distance.
-- Include travel time estimation.
-- Support real-time metro updates and delays.
-- Display route maps visually.
-
----
-
-## Installation & Usage
-
-1. **Clone this repository:**
-```bash
-git clone https://github.com/your-username/hyderabad-metro-route-helper.git
-```
-2. **Navigate into the project folder:**
-```bash
-cd hyderabad-metro-route-helper
-```
-3. **Install required dependencies:**
-```bash
-pip install gradio
-```
-4. **Run the app:**
-```bash
-python app.py
-```
-5. **Open in Browser:**  
-   The app will open automatically in your default browser.
-
----
 
 ## License
 This project is licensed under the MIT License.
